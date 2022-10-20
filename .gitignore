@@ -40,3 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+c:\Projects\NexPass\SandBox\ngbt-test\app\.odo\env
+.odo\odo-file-index.json
